@@ -118,7 +118,8 @@ body {
   font-family: "Work Sans", sans-serif;
   color: black;
   font-weight: 600;
-  font-size: 1.5rem;
+  padding-top: 1rem;
+  font-size: 1.3rem;
 }
 
 .home .foto {
@@ -171,13 +172,13 @@ body {
   font-weight: bold;
   font-size: 1rem;
   color: white;
-  background-color: var(--ungu);
+  background-color: var(--pink);
 }
 
 .info a:hover {
-  background-color: var(--pink);
+  background-color: var(--ungu);
   color: white;
-  border: 1px solid var(--pink);
+  border: 1px solid var(--ungu);
 }
 
 .info .card {
